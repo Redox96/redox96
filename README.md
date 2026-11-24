@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Nafiz 👋
 
-<!--
-**Redox96/redox96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering student · Freelancer · Aspiring founder**
+📍 Rajshahi, Bangladesh → Zhengzhou, China (from September 2026)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🎓 Admitted to **Zhengzhou University (ZZU)** to study for a Bachelor's degree in **Software Engineering**, starting September 2026
+- 💼 Freelancing in **web development, digital marketing, e-commerce, and AI tools**
+- 🎮 Running a **GTA-focused gaming YouTube channel**
+- 🚀 Long-term goal: build a **technology-driven digital solutions company** serving South and Southeast Asian markets
+- 🌐 Languages: Bangla (native), English
+
+## What I do
+
+| Area | What it looks like |
+|------|--------------------|
+| Web development | Building websites and web apps for clients |
+| E-commerce | Store setup, product pages, and sales workflows |
+| Digital marketing | Campaigns, content, and growth for small businesses |
+| AI tools | Using and building with AI to automate real work |
+
+## Featured project
+
+### VidDrop (in progress)
+A Flask-based web app for downloading videos from multiple platforms.
+**Stack:** Python, Flask
+
+## Let's connect
+
+- 📺 YouTube: 
+- 💼 Freelance:
+- ✉️ Email:nafizanzum@proton.me
+- 🔗 LinkedIn:
+
+---
+
+*Always learning, always building.*
+— **NAFIZ ANZUM**
